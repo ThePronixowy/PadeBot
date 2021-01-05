@@ -23,3 +23,12 @@ W plikach bota nieznajdziecie:
 Copyright ThePronix© 2009-2020
 
 Totalny brak kopiowania oraz pokazywania kodu źródłowego bota (src).
+
+# Dlaczego wydałem kod?
+
+Kod został wydany z powodu braku rozwijania bota na tym kodzie.
+
+# Inne projekty
+
+ThePronix aktualnie tworzy bota: ThunderBot wraz z jego "kopiami"
+czyli: Thunder Musis, aktualnie to jedyna wersja.
