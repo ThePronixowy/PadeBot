@@ -2,6 +2,10 @@
 
 PadeBot to 1 projekt ThePronix#4236 na bota do discord. Bot ten był tworzony najpierw na telefonie a potem w JavaScript (js).
 
+# Kod bota
+
+Kod bota został usunięty w całości, w pliakch bota znajdziesz: index.js, .env (plik w któtym znajdziesz token oraz prefix bota), najpotrzebnijsze komendy, instrukcje włączenia bota. Napis (Usuń to) oznacza usnięcie napisu w `.`, plik README.json prosze usunąć po jego przeczytaniu oraz zalecam używania Visual Studio Code. Token bota znajdziesz na stronie https://discord.com/developers/applications. Logujesz się tam, klikasz New Application nazywasz bota, następnie klikasz w Bot, klikasz w przycisk a następnij OAuth2 a potem w Bot. Wybierasz permisje bota, a następnie Copy. Dajesz do nawej karty w przeglądarce, wybierasz serwer, dodajesz bota i robisz OAuth2.
+
 # Założyciel
 
 Założycielem bota jest ThePronix#4236
